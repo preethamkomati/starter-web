@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    <PreethamKomati>
 
 # TECHNOLOGY COLOPHON
 
